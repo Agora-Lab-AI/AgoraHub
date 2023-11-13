@@ -1,8 +1,8 @@
-[![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
+[![Multi-Modality](agorabanner.png)](https://discord.gg/t5QxhyvUG9)
 
 # 🌌 Agora: Advancing Humanity Through Open-Source Multi-Modality AI Research 🌠
 
-[![Join Agora Discord](https://img.shields.io/discord/123456789012345678?color=blue&label=Join%20Agora%20Discord&style=for-the-badge)](https://discord.gg/qUtxnK2NMf)
+[![Join Agora Discord](https://img.shields.io/discord/123456789012345678?color=blue&label=Join%20Agora%20Discord&style=for-the-badge)](https://discord.gg/t5QxhyvUG9)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub%20Repository-AgoraHub-9cf?style=for-the-badge)](https://github.com/Agora-X/AgoraHub)
 
@@ -27,7 +27,7 @@ Our research revolves around these guiding principles:
 
 Our ultimate goal is to foster the development of superintelligent AI that can reason across modalities, tasks, and environments and collaborate with other AI's!
 
-[Join Agora Discord](https://discord.gg/qUtxnK2NMf) 👈 💬
+[Join Agora Discord](https://discord.gg/t5QxhyvUG9) 👈 💬
 
 Agora is your research home regardless of your academic and or institutional background!
 
@@ -55,7 +55,7 @@ Swarms facilitates the creation of swarms of AI agents, opening new possibilitie
 ### [Zeta](https://github.com/kyegomez/zeta)
 Zeta enables you to Build high-performance AI models with modular building blocks!
 
-[Join Agora Discord](https://discord.gg/qUtxnK2NMf) 👈 💬
+[Join Agora Discord](https://discord.gg/t5QxhyvUG9) 👈 💬
 
 ## 🌍 Join Us
 
@@ -63,7 +63,7 @@ At Agora, we believe in the power of collaboration. Our journey is a collective 
 
 We're designers, architects, musicians, artists, engineers, and above all - we're humans. We are Agorians. Together, let's advance humanity through AI.
 
-**[Join Agora Discord](https://discord.gg/qUtxnK2NMf). Let's Create the Future.** 🚀🌠
+**[Join Agora Discord](https://discord.gg/t5QxhyvUG9). Let's Create the Future.** 🚀🌠
 
 ## 📣 Spread the Word
 

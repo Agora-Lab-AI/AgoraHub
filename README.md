@@ -38,7 +38,7 @@ Agora is your research home regardless of your academic and or institutional bac
 - [Share your favorite papers in our papers channel in our discord and discuss it](https://discord.gg/t5QxhyvUG9)
 - [Share your projects in the creator showcase!](https://discord.gg/t5QxhyvUG9)
 <!-- - [Gain access to GPUS and or resources for ML experiments, submit the form and or]() -->
-
+- Join our vibrant community for frequent events and social gatherings. Whether you enjoy organizing, giving talks, or simply attending, we have something for everyone. From study groups to research meetings, you'll connect with inspiring individuals and never miss out on the action with our packed events calendar!
 
 
 

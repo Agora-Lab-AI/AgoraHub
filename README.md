@@ -19,7 +19,7 @@
 
 <!-- Reddit Share -->
 
-<!-- WhatsApp Share -->
+
 [![WhatsApp](https://img.shields.io/badge/Share%20on%20WhatsApp-%2300E676?style=for-the-badge)](https://api.whatsapp.com/send?text=Check%20out%20this%20GitHub%20repository%20from%20Agora%20for%20multi-modality%20AI%20research!%20🚀%20%23AI%20%23GitHub%20%20https://github.com/Agora-X/AgoraHub)
 
 
@@ -33,13 +33,12 @@
 
 Agora is a collective of AI Engineers and creators advancing humanity through artificial intelligence. 
 
-Our research revolves around these guiding principles:
-
+#### Our Guiding Principles:
 * **Humanity First:** Our research has 1 definitive purpose... To advance Humanity above all else.
 * **Open Source:** From start to finish every project we work on is completely open source even if it does not work yet, our devotion to radical openness faciliates accelerated learning.
 * **High-Impact:** All of our research is high impact, we focus on projects that can improve the quality of life for millions of human beings through multi-modal, continual, and collective learning!
 
-#### Research Priorities
+#### Research Priorities:
 * 🌐 **Multi-modal Approach:** Utilizing AI to process and reason with multiple forms of data.
 * 💧 **Adaptability:** Models that are as fluid as water, capable of being fine-tuned and trained in real-time.
 * 🌲 **Reasoning:** Our work aims to achieve superintelligence as swiftly as possible. To this end, we strive to augment models' reasoning capabilities through innovative prompting techniques like the Tree of Thoughts or Forest of Thoughts.
@@ -47,14 +46,12 @@ Our research revolves around these guiding principles:
 
 Our ultimate goal is to foster the development of superintelligent AI that can reason across modalities, tasks, and environments and can collaborate with other AI's!
 
-[Join Agora Discord](https://discord.gg/t5QxhyvUG9) 👈 💬
-
-Agora is your research home regardless of your academic and or institutional background!
+Now, how can you contribute?
 
 # Get Involved:
 - [Daily Paper Club:](https://discord.gg/t5QxhyvUG9) Every night at 10pm we read, analyze, and review the newest and most impactful AI papers! [Join the forum chat in the discord](https://discord.gg/t5QxhyvUG9)
 
-- Contribue to our active projects below or look towards [Kye's github](https://github.com/kyegomez) and [Agora's Github](https://github.com/Agora-X). to find a project that piques your interest
+- Contribue to our active projects below or look towards [Kye's github](https://github.com/kyegomez) and [Agora's Github](https://github.com/Agora-X) for projects to collaborate on! to find a project that piques your interest
 
 - Every Saturday 3pm NYC time, we host a community meeting to talk about the progress made so far in AI research and the remaining challenges left to solve! [Sign up here:]((https://discord.gg/t5QxhyvUG9))
 
@@ -64,7 +61,9 @@ Agora is your research home regardless of your academic and or institutional bac
 
 - Gain access to GPUS and or resources for ML experiments!
 
-- Soon, we'll build techno-ai-reserch monasteries in various cities around the world where you can conduct research without distractions like paying rent, food, and other obstructions!
+- Join our Finetuning team where we finetune the latest models with extreme precision and share them openly! [Join the Agora Discord to learn more!](https://discord.gg/t5QxhyvUG9) 
+
+- Soon, we'll build reserch monasteries in various cities around the world where you can conduct research without distractions like paying rent, food, and other obstructions!
 
 - Join our vibrant community for frequent events and social gatherings. Whether you enjoy organizing, giving talks, or simply attending, we have something for everyone. From study groups to research meetings, you'll connect with inspiring individuals and never miss out on the action with our packed events calendar!
 

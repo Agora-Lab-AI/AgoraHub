@@ -23,7 +23,7 @@ Our ultimate goal is to foster the development of superintelligent AI that can r
 Now, how can you contribute?
 
 # Get Involved:
-- [Daily Paper Club:](https://discord.gg/t5QxhyvUG9) Every night at 10pm we read, analyze, and review the newest and most impactful AI papers! [Join the forum chat in the discord](https://discord.gg/t5QxhyvUG9)
+- [Daily Paper Club:](https://discord.gg/t5QxhyvUG9) Every night at 10pm we read, analyze, and review the newest and most impactful AI papers! [Click here for more information about the club](https://github.com/Agora-X/DailyPaperClub) and [Join the forum chat in the discord](https://discord.gg/t5QxhyvUG9) 
 
 - Contribue to our active projects below or look towards [Kye's github](https://github.com/kyegomez) and [Agora's Github](https://github.com/Agora-X) for projects to collaborate on! to find a project that piques your interest
 

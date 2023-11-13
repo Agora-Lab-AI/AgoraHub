@@ -2,6 +2,8 @@
 
 # 🌌 Agora: Advancing Humanity Through Open-Source Multi-Modality AI Research 🌠
 
+<div align="center">
+
 [![Join Agora Discord](https://img.shields.io/discord/123456789012345678?color=blue&label=Join%20Agora%20Discord&style=for-the-badge)](https://discord.gg/t5QxhyvUG9)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub%20Repository-AgoraHub-9cf?style=for-the-badge)](https://github.com/Agora-X/AgoraHub)
@@ -14,9 +16,10 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Agora-X/AgoraHub?style=social)](https://github.com/Agora-X/AgoraHub/stargazers)
 
-Agora is a collective of AI Engineers and creators advancing humanity through artificial intelligence. 
+</div>
 
-We're exploring and promoting the principles of interconnectedness and shapelessness, developing formless and dynamical AI systems that adapt in real-time. We're taking inspiration from the boundless cosmos, crafting AI that is as diverse, dynamic, and interconnected as the universe itself. 🌙✨
+
+Agora is a collective of AI Engineers and creators advancing humanity through artificial intelligence. 
 
 Our research revolves around these guiding principles:
 
@@ -33,26 +36,32 @@ Agora is your research home regardless of your academic and or institutional bac
 
 
 # Get Involved:
-- [Daily Paper Club:](https://discord.gg/t5QxhyvUG9) Every night at 10pm we read, analyze, and review the newest and most impactful AI papers! Join the forum chat in the discord
-- Contribue to our active projects below or 
+- [Daily Paper Club:](https://discord.gg/t5QxhyvUG9) Every night at 10pm we read, analyze, and review the newest and most impactful AI papers! [Join the forum chat in the discord](https://discord.gg/t5QxhyvUG9)
+- Contribue to our active projects below or look towards [Kye's github](https://github.com/kyegomez) and [Agora's Github](https://github.com/Agora-X). to find a project that piques your interest
+- Every Saturday 3pm NYC time, we host a community meeting to talk about the progress made so far in AI research and the remaining challenges left to solve! [Sign up here:]((https://discord.gg/t5QxhyvUG9))
+- [Share your favorite papers in our papers channel in our discord and discuss it](https://discord.gg/t5QxhyvUG9)
+- [Share your projects in the creator showcase!](https://discord.gg/t5QxhyvUG9)
+- [Gain access to GPUS and or resources for ML experiments]()
+
+
 
 ## 🎇 Our Projects
 
-We're currently working on 40+ groundbreaking projects. The majority are on [Kye's github](https://github.com/kyegomez) and [Agora's](https://github.com/Agora-X). Each represents a star in our celestial quest for AI advancement:
+We're currently working on various paper implemenentations and made-in-house frameworks. The majority are on [Kye's github](https://github.com/kyegomez) and [Agora's](https://github.com/Agora-X). Each represents a star in our celestial quest for AI advancement:
 
-### [Andromeda 🌌](https://github.com/kyegomez/Andromeda)
+- ### [Andromeda 🌌](https://github.com/kyegomez/Andromeda)
 Andromeda is an ultra-fast foundation language model capable of processing inputs greater than 100,000+ tokens. It's a stepping stone towards realizing our vision of AI with enhanced reasoning abilities.
 
-### [Kosmos-X 🌕](https://github.com/kyegomez/Kosmos-X)
+- ### [Kosmos-X 🌕](https://github.com/kyegomez/Kosmos-X)
 Kosmos-X is a multi-modality foundation model that can process vision, audio, images, and more. By combining different modalities, Kosmos-X represents a leap towards more comprehensive and interconnected AI systems.
 
-### [Palm-E](https://github.com/kyegomez/PALM-E)
+- ### [Palm-E](https://github.com/kyegomez/PALM-E)
 PALM-E is a SOTA Multi-Modality Foundation model that can understand text, images, and robotic sequences and execute intelligent multi-modal tasks in the real-world!
 
-### [Swarms 🪐](https://github.com/kyegomez/swarms)
+- ### [Swarms 🪐](https://github.com/kyegomez/swarms)
 Swarms facilitates the creation of swarms of AI agents, opening new possibilities for distributed AI tasks, crowd-based learning, and explorations of emergent behaviors.
 
-### [Zeta](https://github.com/kyegomez/zeta)
+- ### [Zeta](https://github.com/kyegomez/zeta)
 Zeta enables you to Build high-performance AI models with modular building blocks!
 
 [Join Agora Discord](https://discord.gg/t5QxhyvUG9) 👈 💬

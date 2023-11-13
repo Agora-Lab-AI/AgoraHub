@@ -37,7 +37,8 @@ Agora is your research home regardless of your academic and or institutional bac
 - Every Saturday 3pm NYC time, we host a community meeting to talk about the progress made so far in AI research and the remaining challenges left to solve! [Sign up here:]((https://discord.gg/t5QxhyvUG9))
 - [Share your favorite papers in our papers channel in our discord and discuss it](https://discord.gg/t5QxhyvUG9)
 - [Share your projects in the creator showcase!](https://discord.gg/t5QxhyvUG9)
-- [Gain access to GPUS and or resources for ML experiments]()
+<!-- - [Gain access to GPUS and or resources for ML experiments, submit the form and or]() -->
+
 
 
 
@@ -45,19 +46,19 @@ Agora is your research home regardless of your academic and or institutional bac
 
 We're currently working on various paper implemenentations and made-in-house frameworks. The majority are on [Kye's github](https://github.com/kyegomez) and [Agora's](https://github.com/Agora-X). Each represents a star in our celestial quest for AI advancement:
 
-- ### [Andromeda 🌌](https://github.com/kyegomez/Andromeda)
+- **[Andromeda 🌌](https://github.com/kyegomez/Andromeda)**
 Andromeda is an ultra-fast foundation language model capable of processing inputs greater than 100,000+ tokens. It's a stepping stone towards realizing our vision of AI with enhanced reasoning abilities.
 
-- ### [Kosmos-X 🌕](https://github.com/kyegomez/Kosmos-X)
+- **[Kosmos-X 🌕](https://github.com/kyegomez/Kosmos-X)**
 Kosmos-X is a multi-modality foundation model that can process vision, audio, images, and more. By combining different modalities, Kosmos-X represents a leap towards more comprehensive and interconnected AI systems.
 
-- ### [Palm-E](https://github.com/kyegomez/PALM-E)
+- **[Palm-E](https://github.com/kyegomez/PALM-E)**
 PALM-E is a SOTA Multi-Modality Foundation model that can understand text, images, and robotic sequences and execute intelligent multi-modal tasks in the real-world!
 
-- ### [Swarms 🪐](https://github.com/kyegomez/swarms)
+- **[Swarms 🪐](https://github.com/kyegomez/swarms)**
 Swarms facilitates the creation of swarms of AI agents, opening new possibilities for distributed AI tasks, crowd-based learning, and explorations of emergent behaviors.
 
-- ### [Zeta](https://github.com/kyegomez/zeta)
+- **[Zeta](https://github.com/kyegomez/zeta)**
 Zeta enables you to Build high-performance AI models with modular building blocks!
 
 [Join Agora Discord](https://discord.gg/t5QxhyvUG9) 👈 💬

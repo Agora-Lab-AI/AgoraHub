@@ -18,6 +18,8 @@
 
 - Join our vibrant community for frequent events and social gatherings. Whether you enjoy organizing, giving talks, or simply attending, we have something for everyone. From study groups to research meetings, you'll connect with inspiring individuals and never miss out on the action with our packed events calendar!
 
+<!-- - [For any projects you would like to receive support through infra and or marketing support, fill out the following form and submit it as an issue in github!]() -->
+
 
 ## 🎇 Our Projects
 

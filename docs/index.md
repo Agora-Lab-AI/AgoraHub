@@ -46,9 +46,9 @@ Now, how can you contribute?
 - Join our vibrant community for frequent events and social gatherings. Whether you enjoy organizing, giving talks, or simply attending, we have something for everyone. From study groups to research meetings, you'll connect with inspiring individuals and never miss out on the action with our packed events calendar!
 
 
-# 🎇 Our Projects
+## 🎇 Our Projects
 
-We're currently working on various paper implemenentations and made-in-house frameworks. The majority are on [Kye's github](https://github.com/kyegomez) and [Agora's Github](https://github.com/Agora-X):
+We're currently working on various paper implemenentations and made-in-house frameworks. To discover other projects, look on [Kye's github](https://github.com/kyegomez) and [Agora's Github](https://github.com/Agora-X) for more:
 
 - **[Andromeda 🌌](https://github.com/kyegomez/Andromeda)**
 Andromeda is an ultra-fast foundation language model capable of processing inputs greater than 100,000+ tokens. It's a stepping stone towards realizing our vision of AI with enhanced reasoning abilities.
@@ -65,7 +65,7 @@ Swarms facilitates the creation of swarms of AI agents, opening new possibilitie
 - **[Zeta](https://github.com/kyegomez/zeta)**
 Zeta enables you to Build high-performance AI models with modular building blocks!
 
-[Join Agora Discord](https://discord.gg/t5QxhyvUG9) 👈 💬
+[And, Join The Agora Discord](https://discord.gg/t5QxhyvUG9) 👈 💬
 
 
 ## Join Agora!

@@ -71,4 +71,5 @@ nav:
 - Home:
     - Overview: "index.md"
     - Contributing: "contributing.md"
+    - FAQ: "faq.md"
     - Project Proposal Template: "project_submission.md"

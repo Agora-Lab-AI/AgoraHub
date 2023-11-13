@@ -1,3 +1,5 @@
 # Events
-Agora has events going on every single day for researchers and creators, here's an list of events!
-
+- 2x Daily Paper Club: 
+- Weekly Community Meeting
+- Creator Showcase meeting
+- 

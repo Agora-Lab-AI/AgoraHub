@@ -1,107 +1,81 @@
 [![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
-# Python Package Template
-A easy, reliable, fluid template for python packages complete with docs, testing suites, readme's, github workflows, linting and much much more
+# 🌌 Agora: Advancing Humanity Through Open-Source Multi-Modality AI Research 🌠
+
+[![Join Agora Discord](https://img.shields.io/discord/123456789012345678?color=blue&label=Join%20Agora%20Discord&style=for-the-badge)](https://discord.gg/qUtxnK2NMf)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repository-AgoraHub-9cf?style=for-the-badge)](https://github.com/Agora-X/AgoraHub)
+
+[![Twitter](https://img.shields.io/twitter/url?color=blue&label=Share%20on%20Twitter&style=for-the-badge&url=https://github.com/Agora-X/AgoraHub)](https://twitter.com/intent/tweet?url=https://github.com/Agora-X/AgoraHub&text=Check%20out%20this%20awesome%20GitHub%20repository%20from%20Agora%20for%20multi-modality%20AI%20research!%20🚀%20%23AI%20%23GitHub)
+
+[![Instagram](https://img.shields.io/badge/Share%20on%20Instagram-%23FF69B4?style=for-the-badge)](https://www.instagram.com)
+
+[![Facebook](https://img.shields.io/badge/Share%20on%20Facebook-%233B5998?style=for-the-badge)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Agora-X/AgoraHub)
+
+[![GitHub stars](https://img.shields.io/github/stars/Agora-X/AgoraHub?style=social)](https://github.com/Agora-X/AgoraHub/stargazers)
+
+Agora is a collective of AI Engineers and creators advancing humanity through artificial intelligence. 
+
+We're exploring and promoting the principles of interconnectedness and shapelessness, developing formless and dynamical AI systems that adapt in real-time. We're taking inspiration from the boundless cosmos, crafting AI that is as diverse, dynamic, and interconnected as the universe itself. 🌙✨
+
+Our research revolves around these guiding principles:
+
+* 🌐 **Multi-modal Approach:** Utilizing AI to process and reason with multiple forms of data.
+* 💧 **Adaptability:** Models that are as fluid as water, capable of being fine-tuned and trained in real-time.
+* 🌲 **Reasoning:** Our work aims to achieve superintelligence as swiftly as possible. To this end, we strive to augment models' reasoning capabilities through innovative prompting techniques like the Tree of Thoughts or Forest of Thoughts.
+* **Collective Intelligence** Scaling up collaboration between agents to accomplish real-world tasks.
+
+Our ultimate goal is to foster the development of superintelligent AI that can reason across modalities, tasks, and environments and collaborate with other AI's!
+
+[Join Agora Discord](https://discord.gg/qUtxnK2NMf) 👈 💬
+
+Agora is your research home regardless of your academic and or institutional background!
 
 
-## Installation
+# Get Involved:
+- [Daily Paper Club:](https://discord.gg/t5QxhyvUG9) Every night at 10pm we read, analyze, and review the newest and most impactful AI papers! Join the forum chat in the discord
+- Contribue to our active projects below or 
 
-You can install the package using pip
+## 🎇 Our Projects
 
-```bash
-pip install -e .
-```
-## Structure
-```
-├── LICENSE
-├── Makefile
-├── README.md
-├── agorabanner.png
-├── example.py
-├── package
-│   ├── __init__.py
-│   ├── main.py
-│   └── subfolder
-│       ├── __init__.py
-│       └── main.py
-├── pyproject.toml
-└── requirements.txt
+We're currently working on 40+ groundbreaking projects. The majority are on [Kye's github](https://github.com/kyegomez) and [Agora's](https://github.com/Agora-X). Each represents a star in our celestial quest for AI advancement:
 
-2 directories, 11 files
-```
-# Usage
+### [Andromeda 🌌](https://github.com/kyegomez/Andromeda)
+Andromeda is an ultra-fast foundation language model capable of processing inputs greater than 100,000+ tokens. It's a stepping stone towards realizing our vision of AI with enhanced reasoning abilities.
 
-# Documentation
+### [Kosmos-X 🌕](https://github.com/kyegomez/Kosmos-X)
+Kosmos-X is a multi-modality foundation model that can process vision, audio, images, and more. By combining different modalities, Kosmos-X represents a leap towards more comprehensive and interconnected AI systems.
 
+### [Palm-E](https://github.com/kyegomez/PALM-E)
+PALM-E is a SOTA Multi-Modality Foundation model that can understand text, images, and robotic sequences and execute intelligent multi-modal tasks in the real-world!
 
-### Code Quality 🧹
+### [Swarms 🪐](https://github.com/kyegomez/swarms)
+Swarms facilitates the creation of swarms of AI agents, opening new possibilities for distributed AI tasks, crowd-based learning, and explorations of emergent behaviors.
 
-We provide two handy commands inside the `Makefile`, namely:
+### [Zeta](https://github.com/kyegomez/zeta)
+Zeta enables you to Build high-performance AI models with modular building blocks!
 
-- `make style` to format the code
-- `make check_code_quality` to check code quality (PEP8 basically)
+[Join Agora Discord](https://discord.gg/qUtxnK2NMf) 👈 💬
 
-So far, **there is no types checking with mypy**. See [issue](https://github.com/roboflow-ai/template-python/issues/4). 
+## 🌍 Join Us
 
-### Tests 🧪
+At Agora, we believe in the power of collaboration. Our journey is a collective one, shared with all who resonate with our mission. If you're passionate about pushing the boundaries of AI, consider joining us. Whether you're an AI researcher, a creator, or someone curious about the mysteries of the universe, you're welcome here. 🌟
 
-[`pytests`](https://docs.pytest.org/en/7.1.x/) is used to run our tests.
+We're designers, architects, musicians, artists, engineers, and above all - we're humans. We are Agorians. Together, let's advance humanity through AI.
 
-### Publish on PyPi 🚀
+**[Join Agora Discord](https://discord.gg/qUtxnK2NMf). Let's Create the Future.** 🚀🌠
 
-**Important**: Before publishing, edit `__version__` in [src/__init__](/src/__init__.py) to match the wanted new version.
+## 📣 Spread the Word
 
-We use [`twine`](https://twine.readthedocs.io/en/stable/) to make our life easier. You can publish by using
+Love what we're doing at Agora? Help us by spreading the word
 
-```
-export PYPI_USERNAME="you_username"
-export PYPI_PASSWORD="your_password"
-export PYPI_TEST_PASSWORD="your_password_for_test_pypi"
-make publish -e PYPI_USERNAME=$PYPI_USERNAME -e PYPI_PASSWORD=$PYPI_PASSWORD -e PYPI_TEST_PASSWORD=$PYPI_TEST_PASSWORD
-```
+ about our mission and projects. Share Agora with your friends and colleagues across your favorite social media platforms:
 
-You can also use token for auth, see [pypi doc](https://pypi.org/help/#apitoken). In that case,
+* [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Agora-X)
+* [Share on Twitter](https://twitter.com/intent/tweet?url=https://github.com/Agora-X&text=Check%20out%20Agora!%20They're%20advancing%20humanity%20through%20open-source%20multi-modality%20AI%20research.%20)
+* [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Agora-X&title=Agora&summary=Advancing%20humanity%20through%20open-source%20multi-modality%20AI%20research.%20)
+* [Share on Reddit](http://www.reddit.com/submit?url=https://github.com/Agora-X&title=Agora:%20Advancing%20Humanity%20Through%20Open-Source%20Multi-Modality%20AI%20Research)
 
-```
-export PYPI_USERNAME="__token__"
-export PYPI_PASSWORD="your_token"
-export PYPI_TEST_PASSWORD="your_token_for_test_pypi"
-make publish -e PYPI_USERNAME=$PYPI_USERNAME -e PYPI_PASSWORD=$PYPI_PASSWORD -e PYPI_TEST_PASSWORD=$PYPI_TEST_PASSWORD
-```
+Or simply share this link with your friends: https://github.com/Agora-X
 
-**Note**: We will try to push to [test pypi](https://test.pypi.org/) before pushing to pypi, to assert everything will work
-
-### CI/CD 🤖
-
-We use [GitHub actions](https://github.com/features/actions) to automatically run tests and check code quality when a new PR is done on `main`.
-
-On any pull request, we will check the code quality and tests.
-
-When a new release is created, we will try to push the new code to PyPi. We use [`twine`](https://twine.readthedocs.io/en/stable/) to make our life easier. 
-
-The **correct steps** to create a new realease are the following:
-- edit `__version__` in [src/__init__](/src/__init__.py) to match the wanted new version.
-- create a new [`tag`](https://git-scm.com/docs/git-tag) with the release name, e.g. `git tag v0.0.1 && git push origin v0.0.1` or from the GitHub UI.
-- create a new release from GitHub UI
-
-The CI will run when you create the new release.
-
-# Docs
-We use MK docs. This repo comes with the zeta docs. All the docs configurations are already here along with the readthedocs configs
-
-# Q&A
-
-## Why no cookiecutter?
-This is a template repo, it's meant to be used inside GitHub upon repo creation.
-
-## Why reinvent the wheel?
-
-There are several very good templates on GitHub, I prefer to use code we wrote instead of blinding taking the most starred template and having features we don't need. From experience, it's better to keep it simple and general enough for our specific use cases.
-
-# Architecture
-
-# License
-MIT
-
-
-
+Thank you for supporting Agora! 💖

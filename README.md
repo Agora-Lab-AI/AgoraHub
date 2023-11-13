@@ -72,6 +72,7 @@ Zeta enables you to Build high-performance AI models with modular building block
 - [Follow us on Kye's GitHub Page](https://github.com/kyegomez)
 - [Follow Kye's Youtube channel for daily analysis on papers and models!](https://www.youtube.com/watch?v=eZaFkF-qLh0)
 - [Subscribe to Kye's Twitter](https://twitter.com/KyeGomezB)
+- [Follow and share Kye's projects on social media!](https://linktr.ee/thereclaimer)
 
 ## 📣 Spread the Word
 

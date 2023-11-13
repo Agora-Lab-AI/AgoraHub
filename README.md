@@ -2,8 +2,6 @@
 
 # 🌌 Agora: Advancing Humanity Through Open-Source Multi-Modality AI Research 🌠
 
-<div align="center">
-
 [![Join Agora Discord](https://img.shields.io/discord/123456789012345678?color=blue&label=Join%20Agora%20Discord&style=for-the-badge)](https://discord.gg/t5QxhyvUG9)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub%20Repository-AgoraHub-9cf?style=for-the-badge)](https://github.com/Agora-X/AgoraHub)
@@ -15,8 +13,6 @@
 [![Facebook](https://img.shields.io/badge/Share%20on%20Facebook-%233B5998?style=for-the-badge)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Agora-X/AgoraHub)
 
 [![GitHub stars](https://img.shields.io/github/stars/Agora-X/AgoraHub?style=social)](https://github.com/Agora-X/AgoraHub/stargazers)
-
-</div>
 
 
 Agora is a collective of AI Engineers and creators advancing humanity through artificial intelligence. 

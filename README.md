@@ -23,7 +23,7 @@ Our ultimate goal is to foster the development of superintelligent AI that can r
 Now, how can you contribute?
 
 # Get Involved:
-- [Daily Paper Club:](https://discord.gg/t5QxhyvUG9) Every night at 10pm we read, analyze, and review the newest and most impactful AI papers! [Join the forum chat in the discord](https://discord.gg/t5QxhyvUG9)
+- [Daily Paper Club:](https://discord.gg/t5QxhyvUG9) Every night at 10pm we read, analyze, and review the newest and most impactful AI papers! [Click here for more information about the club](https://github.com/Agora-X/DailyPaperClub) and [Join the forum chat in the discord](https://discord.gg/t5QxhyvUG9) 
 
 - Contribue to our active projects below or look towards [Kye's github](https://github.com/kyegomez) and [Agora's Github](https://github.com/Agora-X) for projects to collaborate on! to find a project that piques your interest
 
@@ -42,6 +42,8 @@ Now, how can you contribute?
 <!-- Join the Agora foundation and receive mentorship assistance, marketing support, and financial support! -->
 
 - [For any projects you would like to receive support through infra and or marketing support, fill out the following form and submit it as an issue in github!](https://agora-codex.readthedocs.io/en/latest/project_submission/)
+
+- [Subscribe to our google calendar](https://discord.gg/7VckQVxvKk) to stay up to date with our events, all events are hosted in the discord unless mentioned:
 
 - Join our vibrant community for frequent events and social gatherings. Whether you enjoy organizing, giving talks, or simply attending, we have something for everyone. From study groups to research meetings, you'll connect with inspiring individuals and never miss out on the action with our packed events calendar!
 

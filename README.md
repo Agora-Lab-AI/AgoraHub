@@ -1,5 +1,3 @@
-[![Multi-Modality](agorabanner.png)](https://discord.gg/t5QxhyvUG9)
-
 # 🌌 Agora: Advancing Humanity Through Open-Source Multi-Modality AI Research 🌠
 
 [![Join Agora Discord](https://img.shields.io/discord/123456789012345678?color=blue&label=Join%20Agora%20Discord&style=for-the-badge)](https://discord.gg/t5QxhyvUG9)[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repository-AgoraHub-9cf?style=for-the-badge)](https://github.com/Agora-X/AgoraHub)[![Twitter](https://img.shields.io/twitter/url?color=blue&label=Share%20on%20Twitter&style=for-the-badge&url=https://github.com/Agora-X/AgoraHub)](https://twitter.com/intent/tweet?url=https://github.com/Agora-X/AgoraHub&text=Check%20out%20this%20awesome%20GitHub%20repository%20from%20Agora%20for%20multi-modality%20AI%20research!%20🚀%20%23AI%20%23GitHub)[![Instagram](https://img.shields.io/badge/Share%20on%20Instagram-%23FF69B4?style=for-the-badge)](https://www.instagram.com)[![Facebook](https://img.shields.io/badge/Share%20on%20Facebook-%233B5998?style=for-the-badge)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Agora-X/AgoraHub)[![LinkedIn](https://img.shields.io/badge/Share%20on%20LinkedIn-%230077B5?style=for-the-badge)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Agora-X/AgoraHub)[![WhatsApp](https://img.shields.io/badge/Share%20on%20WhatsApp-%2300E676?style=for-the-badge)](https://api.whatsapp.com/send?text=Check%20out%20this%20GitHub%20repository%20from%20Agora%20for%20multi-modality%20AI%20research!%20🚀%20%23AI%20%23GitHub%20%20https://github.com/Agora-X/AgoraHub)[![Pinterest](https://img.shields.io/badge/Share%20on%20Pinterest-%23E60023?style=for-the-badge)](https://pinterest.com/pin/create/button/?url=https://github.com/Agora-X/AgoraHub&media=&description=Check%20out%20this%20GitHub%20repository%20from%20Agora%20for%20multi-modality%20AI%20research!%20🚀%20%23AI%20%23GitHub)[![GitHub stars](https://img.shields.io/github/stars/Agora-X/AgoraHub?style=social)](https://github.com/Agora-X/AgoraHub/stargazers)
@@ -41,12 +39,16 @@ Now, how can you contribute?
 
 - Soon, we'll build reserch monasteries in various cities around the world where you can conduct research without distractions like paying rent, food, and other obstructions!
 
+<!-- Join the Agora foundation and receive mentorship assistance, marketing support, and financial support! -->
+
+- [For any projects you would like to receive support through infra and or marketing support, fill out the following form and submit it as an issue in github!](https://agora-codex.readthedocs.io/en/latest/project_submission/)
+
 - Join our vibrant community for frequent events and social gatherings. Whether you enjoy organizing, giving talks, or simply attending, we have something for everyone. From study groups to research meetings, you'll connect with inspiring individuals and never miss out on the action with our packed events calendar!
 
 
-# 🎇 Our Projects
+## 🎇 Our Projects
 
-We're currently working on various paper implemenentations and made-in-house frameworks. The majority are on [Kye's github](https://github.com/kyegomez) and [Agora's Github](https://github.com/Agora-X):
+We're currently working on various paper implemenentations and made-in-house frameworks. To discover other projects, look on [Kye's github](https://github.com/kyegomez) and [Agora's Github](https://github.com/Agora-X) for more:
 
 - **[Andromeda 🌌](https://github.com/kyegomez/Andromeda)**
 Andromeda is an ultra-fast foundation language model capable of processing inputs greater than 100,000+ tokens. It's a stepping stone towards realizing our vision of AI with enhanced reasoning abilities.
@@ -63,7 +65,7 @@ Swarms facilitates the creation of swarms of AI agents, opening new possibilitie
 - **[Zeta](https://github.com/kyegomez/zeta)**
 Zeta enables you to Build high-performance AI models with modular building blocks!
 
-[Join Agora Discord](https://discord.gg/t5QxhyvUG9) 👈 💬
+[And, Join The Agora Discord](https://discord.gg/t5QxhyvUG9) 👈 💬
 
 
 ## Join Agora!
@@ -72,7 +74,6 @@ Zeta enables you to Build high-performance AI models with modular building block
 - [Follow us on Kye's GitHub Page](https://github.com/kyegomez)
 - [Follow Kye's Youtube channel for daily analysis on papers and models!](https://www.youtube.com/watch?v=eZaFkF-qLh0)
 - [Subscribe to Kye's Twitter](https://twitter.com/KyeGomezB)
-- [Follow and share Kye's projects on social media!](https://linktr.ee/thereclaimer)
 
 ## 📣 Spread the Word
 

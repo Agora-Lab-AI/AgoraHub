@@ -41,7 +41,7 @@ Now, how can you contribute?
 
 <!-- Join the Agora foundation and receive mentorship assistance, marketing support, and financial support! -->
 
-<!-- - [For any projects you would like to receive support through infra and or marketing support, fill out the following form and submit it as an issue in github!]() -->
+- [For any projects you would like to receive support through infra and or marketing support, fill out the following form and submit it as an issue in github!](https://agora-codex.readthedocs.io/en/latest/project_submission/)
 
 - Join our vibrant community for frequent events and social gatherings. Whether you enjoy organizing, giving talks, or simply attending, we have something for everyone. From study groups to research meetings, you'll connect with inspiring individuals and never miss out on the action with our packed events calendar!
 

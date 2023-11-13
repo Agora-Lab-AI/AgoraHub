@@ -12,6 +12,21 @@
 
 [![Facebook](https://img.shields.io/badge/Share%20on%20Facebook-%233B5998?style=for-the-badge)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Agora-X/AgoraHub)
 
+
+
+<!-- LinkedIn Share -->
+[![LinkedIn](https://img.shields.io/badge/Share%20on%20LinkedIn-%230077B5?style=for-the-badge)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Agora-X/AgoraHub)
+
+<!-- Reddit Share -->
+[![Reddit](https://img.shields.io/reddit/share?style=for-the-badge&url=https://github.com/Agora-X/AgoraHub)](https://www.reddit.com/submit?url=https://github.com/Agora-X/AgoraHub&title=Check%20out%20AgoraHub%20on%20GitHub!)
+
+<!-- WhatsApp Share -->
+[![WhatsApp](https://img.shields.io/badge/Share%20on%20WhatsApp-%2300E676?style=for-the-badge)](https://api.whatsapp.com/send?text=Check%20out%20this%20GitHub%20repository%20from%20Agora%20for%20multi-modality%20AI%20research!%20🚀%20%23AI%20%23GitHub%20%20https://github.com/Agora-X/AgoraHub)
+
+
+<!-- Pinterest Share -->
+[![Pinterest](https://img.shields.io/badge/Share%20on%20Pinterest-%23E60023?style=for-the-badge)](https://pinterest.com/pin/create/button/?url=https://github.com/Agora-X/AgoraHub&media=&description=Check%20out%20this%20GitHub%20repository%20from%20Agora%20for%20multi-modality%20AI%20research!%20🚀%20%23AI%20%23GitHub)
+
 [![GitHub stars](https://img.shields.io/github/stars/Agora-X/AgoraHub?style=social)](https://github.com/Agora-X/AgoraHub/stargazers)
 
 

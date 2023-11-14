@@ -1,4 +1,4 @@
-site_name: Package Docs
+site_name: Agorag
 plugins:
   - glightbox
   - search

@@ -45,6 +45,11 @@ Now, how can you contribute?
 
 - [Subscribe to our google calendar](https://discord.gg/7VckQVxvKk) to stay up to date with our events, all events are hosted in the discord unless mentioned:
 
+- Paper Implementation Night: We select a paper and implement it in pytorch within 1 hour! [Sign up here](https://lu.ma/i0u30cgv)
+
+
+
+
 - Join our vibrant community for frequent events and social gatherings. Whether you enjoy organizing, giving talks, or simply attending, we have something for everyone. From study groups to research meetings, you'll connect with inspiring individuals and never miss out on the action with our packed events calendar!
 
 

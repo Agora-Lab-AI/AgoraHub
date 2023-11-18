@@ -5,3 +5,5 @@ All of our ongoing Agorian events can be [subscribed to here in this google cale
 
 - AI Research Weekly Overview: Every Saturday 3pm NYC time on our discord voice channel we'll review all the latest papers from the week before and talk about AI is progressing and challenges left to solve: [Click here to join: ](https://discord.gg/7VckQVxvKk)
 
+- Paper Implementation Night: We select a paper and implement it in pytorch within 1 hour! [Sign up here](https://lu.ma/i0u30cgv)
+

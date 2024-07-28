@@ -1,4 +1,4 @@
-# 🌌 Agora: Advancing Humanity Through Open-Source Multi-Modality AI Research 🌠
+# 🌌 Agora: Advancing Humanity Through Open-Source AI Research 🌠
 
 [![Join Agora Discord](https://img.shields.io/discord/123456789012345678?color=blue&label=Join%20Agora%20Discord&style=for-the-badge)](https://discord.gg/t5QxhyvUG9)[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repository-AgoraHub-9cf?style=for-the-badge)](https://github.com/Agora-X/AgoraHub)[![Twitter](https://img.shields.io/twitter/url?color=blue&label=Share%20on%20Twitter&style=for-the-badge&url=https://github.com/Agora-X/AgoraHub)](https://twitter.com/intent/tweet?url=https://github.com/Agora-X/AgoraHub&text=Check%20out%20this%20awesome%20GitHub%20repository%20from%20Agora%20for%20multi-modality%20AI%20research!%20🚀%20%23AI%20%23GitHub)[![Instagram](https://img.shields.io/badge/Share%20on%20Instagram-%23FF69B4?style=for-the-badge)](https://www.instagram.com)[![Facebook](https://img.shields.io/badge/Share%20on%20Facebook-%233B5998?style=for-the-badge)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Agora-X/AgoraHub)[![LinkedIn](https://img.shields.io/badge/Share%20on%20LinkedIn-%230077B5?style=for-the-badge)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Agora-X/AgoraHub)[![WhatsApp](https://img.shields.io/badge/Share%20on%20WhatsApp-%2300E676?style=for-the-badge)](https://api.whatsapp.com/send?text=Check%20out%20this%20GitHub%20repository%20from%20Agora%20for%20multi-modality%20AI%20research!%20🚀%20%23AI%20%23GitHub%20%20https://github.com/Agora-X/AgoraHub)[![Pinterest](https://img.shields.io/badge/Share%20on%20Pinterest-%23E60023?style=for-the-badge)](https://pinterest.com/pin/create/button/?url=https://github.com/Agora-X/AgoraHub&media=&description=Check%20out%20this%20GitHub%20repository%20from%20Agora%20for%20multi-modality%20AI%20research!%20🚀%20%23AI%20%23GitHub)[![GitHub stars](https://img.shields.io/github/stars/Agora-X/AgoraHub?style=social)](https://github.com/Agora-X/AgoraHub/stargazers)
 
@@ -50,7 +50,7 @@ Swarms facilitates the creation of swarms of AI agents, opening new possibilitie
 - **[Zeta](https://github.com/kyegomez/zeta)**
 Zeta enables you to Build high-performance AI models with modular building blocks!
 
-[And, Join The Agora Discord](https://discord.gg/t5QxhyvUG9) 👈 💬
+
 
 
 ## Resources
